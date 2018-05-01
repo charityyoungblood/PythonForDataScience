@@ -4,5 +4,9 @@
 
 2. Statement: A statement represents a concrete action of some kind 
 
+3. Function: A function in Python takes an input and returns an output 
  
+4. Mathematical Operators: +, -, *, /, Exponent: **, ()  ---> Python uses the Order of Operations rules
+
+5. Variable declaration: no keyword needed; only use variable name (i.e. fashion_designer = "Zac Posen") 
  

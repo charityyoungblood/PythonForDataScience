@@ -1,0 +1,8 @@
+<!-- Syntax, Terms etc --> 
+
+1. Expression:  An expression evaluates to a specific value
+
+2. Statement: A statement represents a concrete action of some kind 
+
+ 
+ 

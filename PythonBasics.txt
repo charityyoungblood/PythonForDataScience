@@ -11,4 +11,8 @@
 5. Variable declaration: no keyword needed; only use variable name (i.e. fashion_designer = "Zac Posen") 
 
 6. Lists: Arrays are called "Lists" in Python 
+
+7. List Comprehension: Place the operation first, followed by for loop syntax 
+   Ex: fashion_designer = [(dress_size * 2) for dress in dresses]
+       This code will double each dress size in the "dresses" list and store in the variable "fashion designer" 
  

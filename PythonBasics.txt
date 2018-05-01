@@ -9,4 +9,6 @@
 4. Mathematical Operators: +, -, *, /, Exponent: **, ()  ---> Python uses the Order of Operations rules
 
 5. Variable declaration: no keyword needed; only use variable name (i.e. fashion_designer = "Zac Posen") 
+
+6. Lists: Arrays are called "Lists" in Python 
  
